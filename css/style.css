@@ -3,8 +3,12 @@
   display: block;
   margin: auto;
 }
+#iconsdiv a {
+  text-decoration: transparent;
+}
 
 .buttonsocialmedia {
+  -webkit-tap-highlight-color: transparent;
   border-radius: 50%;
   background-color: transparent;
   border: none;
