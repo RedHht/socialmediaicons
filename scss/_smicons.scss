@@ -1,4 +1,3 @@
-
 $mainiconcolor: #383535; //Change the default icon color, its like, if you webpage have a white background, I recommend use black etc etc
 $mainsize: 2em; //The size of every single icon
 $margin: auto; //Modify the margin of the icons
@@ -23,9 +22,13 @@ $margin: auto; //Modify the margin of the icons
     text-align: center;
     display: block;
     margin: auto;
+    a {
+        text-decoration: transparent;
+    }
 }
 
 .buttonsocialmedia {
+    -webkit-tap-highlight-color: transparent;
     border-radius: 50%;
     background-color: transparent;
     border: none;
