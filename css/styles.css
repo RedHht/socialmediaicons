@@ -1,1 +1,90 @@
+#iconsdiv {
+  text-align: center;
+  display: block;
+  margin: auto;
+}
 
+.buttonsocialmedia {
+  border-radius: 50%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+#twitter-icn {
+  margin: auto;
+  outline: transparent;
+  display: inline-block;
+  margin: auto;
+  padding: 1vh;
+  color: #383535;
+  cursor: pointer;
+  transition: background-color 0.7s;
+  transition-timing-function: ease-in-out;
+  font-size: 3vh;
+  border-radius: 50%;
+}
+
+#twitter-icn:hover {
+  background-color: #00ACEE;
+  border-radius: 50%;
+}
+
+#instagram-icn {
+  margin: auto;
+  outline: transparent;
+  display: inline-block;
+  margin: auto;
+  padding: 1vh;
+  color: #383535;
+  cursor: pointer;
+  transition: background-color 0.7s;
+  transition-timing-function: ease-in-out;
+  font-size: 3vh;
+  border-radius: 50%;
+}
+
+#instagram-icn:hover {
+  background-color: #de1b86;
+  border-radius: 50%;
+}
+
+#linkedin-icn {
+  margin: auto;
+  outline: transparent;
+  display: inline-block;
+  margin: auto;
+  padding: 1vh;
+  color: #383535;
+  cursor: pointer;
+  transition: background-color 0.7s;
+  transition-timing-function: ease-in-out;
+  font-size: 3vh;
+  border-radius: 50%;
+}
+
+#linkedin-icn:hover {
+  background-color: #0e76A8;
+  border-radius: 50%;
+}
+
+#facebook-icn {
+  margin: auto;
+  outline: transparent;
+  display: inline-block;
+  margin: auto;
+  padding: 1vh;
+  color: #383535;
+  cursor: pointer;
+  transition: background-color 0.7s;
+  transition-timing-function: ease-in-out;
+  font-size: 3vh;
+  border-radius: 50%;
+}
+
+#facebook-icn:hover {
+  background-color: #3B5998;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
