@@ -16,12 +16,12 @@
   outline: transparent;
   display: inline-block;
   margin: auto;
-  padding: 1vh;
+  padding: 0.5em;
   color: #383535;
   cursor: pointer;
   transition: background-color 0.7s;
   transition-timing-function: ease-in-out;
-  font-size: 3vh;
+  font-size: 2em;
   border-radius: 50%;
 }
 
@@ -35,12 +35,12 @@
   outline: transparent;
   display: inline-block;
   margin: auto;
-  padding: 1vh;
+  padding: 0.5em;
   color: #383535;
   cursor: pointer;
   transition: background-color 0.7s;
   transition-timing-function: ease-in-out;
-  font-size: 3vh;
+  font-size: 2em;
   border-radius: 50%;
 }
 
@@ -54,12 +54,12 @@
   outline: transparent;
   display: inline-block;
   margin: auto;
-  padding: 1vh;
+  padding: 0.5em;
   color: #383535;
   cursor: pointer;
   transition: background-color 0.7s;
   transition-timing-function: ease-in-out;
-  font-size: 3vh;
+  font-size: 2em;
   border-radius: 50%;
 }
 
@@ -73,12 +73,12 @@
   outline: transparent;
   display: inline-block;
   margin: auto;
-  padding: 1vh;
+  padding: 0.5em;
   color: #383535;
   cursor: pointer;
   transition: background-color 0.7s;
   transition-timing-function: ease-in-out;
-  font-size: 3vh;
+  font-size: 2em;
   border-radius: 50%;
 }
 
