@@ -1,6 +1,6 @@
 
 $mainiconcolor: #383535; //Change the default icon color, its like, if you webpage have a white background, I recommend use black etc etc
-$mainsize: 3vh; //The size of every single icon
+$mainsize: 2em; //The size of every single icon
 $margin: auto; //Modify the margin of the icons
 
 //You can modify this 2 variables to edit the general aspects of the buttons
@@ -10,7 +10,7 @@ $margin: auto; //Modify the margin of the icons
     outline: transparent;
     display: inline-block;
     margin: auto;
-    padding: $mainsize / 3;
+    padding: $mainsize / 4;
     color: $mainiconcolor;
     cursor: pointer;
     transition: background-color .7s;
