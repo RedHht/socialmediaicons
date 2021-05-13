@@ -2,7 +2,7 @@ $mainiconcolor: #383535; //Change the default icon color, its like, if you webpa
 $mainsize: 2em; //The size of every single icon
 $margin: auto; //Modify the margin of the icons
 
-//You can modify this 2 variables to edit the general aspects of the buttons
+//You can modify this 3 variables to edit the general aspects of the buttons
 
 @mixin defaulticn {
     margin: $margin;
@@ -20,7 +20,9 @@ $margin: auto; //Modify the margin of the icons
 
 #iconsdiv {
     text-align: center;
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     margin: auto;
     a {
         text-decoration: transparent;
