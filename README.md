@@ -6,4 +6,4 @@ You can download the complete package which includes HTML CSS and SCSS or downlo
 
 This is my first creation uploaded to GitHub, I am not a professional but I do what I can, thanks for using these icons, I really appreciate it 😊
 
-Live webpage: https://sniper739.github.io/socialmediaicons/
+Live webpage: https://redhht.github.io//socialmediaicons/
